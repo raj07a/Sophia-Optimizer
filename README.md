@@ -1,4 +1,4 @@
-Sophia Optimizer: Enhancing Large Language Model Training
+#Sophia Optimizer: Enhancing Large Language Model Training
 📌 Overview
 This project implements and enhances the Sophia Optimizer, a second-order optimization method designed for efficient and scalable training of Large Language Models (LLMs) such as GPT-2. By leveraging Hessian diagonal approximation, mixed-precision training, and dynamic learning rate adjustments, Sophia aims to improve convergence speed, stability, and generalization compared to traditional optimizers like Adam and SGD.
 
