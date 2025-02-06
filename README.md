@@ -86,10 +86,23 @@ python main.py --optimizer sgd --epochs 5
 ⚡ Explore parallel and distributed computing for large-scale training
 
 👨‍💻 Contributors
-🔹 Your Name – GitHub
-🔹 Collaborators (if any)
+🔹 Raja Rawat – raj07a
 
-📩 Contact: youremail@example.com
+
+📩 Contact: rajarawat@gmail.com
+
+📜 Citation
+If you use this project, please cite our work:
+
+bibtex
+Copy
+Edit
+@article{Sophia2024,
+  title={Sophia: A Scalable Stochastic Second-Order Optimizer for Language Model Pre-training},
+  author={Liu, Hong et al.},
+  journal={arXiv preprint arXiv:2305.14342},
+  year={2024}
+}
 
 📜 License
 📄 This project is licensed under the MIT License – Feel free to use and modify it!
